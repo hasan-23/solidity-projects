@@ -1,0 +1,24 @@
+{
+  "name": "solidity-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasan-23/solidity-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hasan-23/solidity-projects/issues"
+  },
+  "homepage": "https://github.com/hasan-23/solidity-projects#readme",
+  "devDependencies": {
+    "hardhat": "^2.22.19"
+  }
+}
