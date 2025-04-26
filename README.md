@@ -1,4 +1,4 @@
-# 🛡️ Solidity Projects – Built by Hasan (@md_tanvir4)
+# 🛡️ Solidity Projects – Built by Hasan [@md_tanvir4](https://x.com/md_tanvir4)
 
 This repository showcases Solidity smart contracts developed as part of my Solidity Roadmap.  
 Each project focuses on secure development practices, freelance-readiness, and auditability — preparing for real-world Web3 environments.
@@ -50,6 +50,7 @@ Each project focuses on secure development practices, freelance-readiness, and a
 
 - Twitter: [@md_tanvir4](https://x.com/md_tanvir4)
 - GitHub: [github.com/hasan-23](https://github.com/hasan-23)
+- LinkedIn: [Md Hasan Tanvir](https://www.linkedin.com/in/md-hasan-tanvir-64390719a/)
 
 ---
 
