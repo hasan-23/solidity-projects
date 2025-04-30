@@ -12,7 +12,7 @@ Each project focuses on secure development practices, freelance-readiness, and a
 | [`VotingSystem.sol`](./contracts/VotingSystem.sol) | Owner-controlled voting platform allowing voters to cast a single vote. Tracks candidates and results transparently. |
 | [`ModifierPractice.sol`](./contracts/ModifierPractice.sol) | Role-based access control system implementing reusable custom modifiers and secure withdrawal logic. |
 | [`AccessVault.sol`](./contracts/AccessVault.sol) | ETH vault contract restricted to owner actions with deposit, withdrawal, and balance retrieval functions. |
-| [`FundTracker.sol`](./contracts/FundTracker.sol)  | → A secure ETH deposit + withdrawal tracker. Includes onlyOwner withdrawal, deposit logging, and custom error handling. |
+| [`FundTracker.sol`](./contracts/FundTracker.sol)  | A secure ETH deposit + withdrawal tracker. Includes onlyOwner withdrawal, deposit logging, and custom error handling. |
 
 ---
 
